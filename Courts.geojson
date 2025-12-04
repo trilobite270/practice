@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "3baef847-edce-4531-854d-8ede4ef80a69202041-1-jxo403.nlon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 321, "NAME": "City Hall", "TELEPHONE_": "215-686-7000", "ADDRESS": "N 15TH ST & MARKET ST, 19102" }, "geometry": { "type": "Point", "coordinates": [ -75.165229706775065, 39.952585813289637 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 322, "NAME": "Pre-trial\/Adult Probation Center\/Municipal Community Ct", "TELEPHONE_": "215-683-1000", "ADDRESS": "1401 ARCH ST, 19102" }, "geometry": { "type": "Point", "coordinates": [ -75.163255341823614, 39.954493981230357 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 323, "NAME": "Arbitration Center", "TELEPHONE_": "215-686-9590", "ADDRESS": "1880 JOHN F KENNEDY BLVD, 19103" }, "geometry": { "type": "Point", "coordinates": [ -75.171059667514015, 39.954297573553518 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 324, "NAME": "Juanita Kidd Stout Center for Criminal Justice", "TELEPHONE_": "215-683-7000", "ADDRESS": "1301 FILBERT ST, 19107" }, "geometry": { "type": "Point", "coordinates": [ -75.161248757118031, 39.953193969418713 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 325, "NAME": "Municpal Court Traffic Court Division", "TELEPHONE_": "215-686-1675", "ADDRESS": "800 SPRING GARDEN ST, 19123" }, "geometry": { "type": "Point", "coordinates": [ -75.151833642907988, 39.961400013462431 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 326, "NAME": "Common Pleas Family Court Division", "TELEPHONE_": "215-686-4000", "ADDRESS": "1501 ARCH ST, 19102" }, "geometry": { "type": "Point", "coordinates": [ -75.16484210075896, 39.954628272030575 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 327, "NAME": "Municpal Court Civil Division", "TELEPHONE_": "215-686-2910", "ADDRESS": "1339 CHESTNUT ST, 19107" }, "geometry": { "type": "Point", "coordinates": [ -75.163860465657635, 39.950865642905185 ] } }
+]
+}
